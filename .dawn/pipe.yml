@@ -16,7 +16,7 @@ build:
     location: ./lib/index.js
     entry: ./demo/*.{js,jsx,ts,tsx}
     template: ./demo/assets/*.html
-    cssModules: true
+    cssModules: false
     compress: false
     stats: true
 
