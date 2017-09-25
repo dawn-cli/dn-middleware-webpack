@@ -1,6 +1,6 @@
 {
   "name": "dn-middleware-webpack",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "awesome-typescript-loader": "^3.2.3",
-    "babel-core": "^6.21.0",
+    "babel-core": "^6.26.0",
     "babel-eslint": "^7.1.1",
     "babel-loader": "^7.1.2",
     "babel-plugin-add-module-exports": "^0.2.1",
@@ -21,7 +21,7 @@
     "babel-plugin-transform-runtime": "^6.15.0",
     "babel-plugin-typecheck": "^3.9.0",
     "babel-polyfill": "^6.26.0",
-    "babel-preset-env": "^2.0.0-beta.1",
+    "babel-preset-env": "^1.6.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
     "babel-runtime": "^6.23.0",
@@ -50,7 +50,7 @@
     "url-loader": "^0.5.8",
     "vue-loader": "^13.0.4",
     "vue-template-compiler": "^2.4.2",
-    "webpack": "^3.5.3",
+    "webpack": "^3.6.0",
     "webpack-visualizer-plugin": "^0.1.11"
   }
 }

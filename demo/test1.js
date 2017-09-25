@@ -11,7 +11,7 @@ const test4 = require('./test4.vue');
 log('这是 test1');
 const x = { pkg };
 
-function render() {
+const render = () => {
   return <div>
     {do {
       if(x){
