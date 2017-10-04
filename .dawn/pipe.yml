@@ -19,7 +19,6 @@ build:
     cssModules: false
     compress: false
     stats: true
-    presetEnv: false
 
 test:
   - name: lint
